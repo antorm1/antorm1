@@ -18,9 +18,18 @@ I'm passionate about building clean, efficient solutions and exploring new techn
 | **DevOps** | Docker, CI/CD, Linux |
 | **Tools** | Git, VS Code, Postman |
 
+## 📦 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**API Hub**](https://github.com/antorm1/api-directory) ⚡ | 80+ public APIs directory with search & filters | FastAPI, JS |
+| [**JobHunt**](https://github.com/antorm1/job-hunt-app) 💼 | Real-time remote job aggregator from multiple sources | FastAPI, JS |
+| [**GH Profile CLI**](https://github.com/antorm1/gh-profile-cli) 🔍 | CLI tool to analyze GitHub profiles with Rich output | Python |
+| [**Dotfiles**](https://github.com/antorm1/dotfiles) 🖥️ | Personal dev environment configurations | Shell |
+| [**Awesome Tools**](https://github.com/antorm1/awesome-tools) 🛠️ | Curated collection of useful tools & scripts | Various |
+
 ## 📊 GitHub Stats
 
-<!-- Replace these with your actual stats later -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antorm1&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antorm1&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="45%" />
