@@ -14,5 +14,7 @@ I build public-interest tools focused on community resilience and access.
 - [care-loop](https://github.com/antorm1/care-loop)
 - [skill-bridge](https://github.com/antorm1/skill-bridge)
 - [water-watch](https://github.com/antorm1/water-watch)
+- [msaada](https://github.com/antorm1/msaada)
+- [mazao-passport](https://github.com/antorm1/mazao-passport)
 
-> Last updated: 2026-06-19 UTC
+> Last updated: 2026-06-25 UTC
