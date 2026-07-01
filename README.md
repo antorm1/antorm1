@@ -4,6 +4,7 @@ I build public-interest tools focused on community resilience and access.
 
 ## Projects
 
+- [portfolio-manager](https://github.com/antorm1/portfolio-manager)
 - [my-apps](https://github.com/antorm1/my-apps)
 - [open-pantry](https://github.com/antorm1/open-pantry)
 - [civic-shield](https://github.com/antorm1/civic-shield)
