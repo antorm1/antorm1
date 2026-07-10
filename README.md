@@ -20,4 +20,4 @@ I build public-interest tools focused on community resilience and access.
 - [pawguide](https://github.com/antorm1/pawguide) — pet vet routes, walk/potty log & care reminders ([live](https://antorm1.github.io/pawguide/))
 - [lifeflow](https://github.com/antorm1/lifeflow) — calm personal event & reminder list ([live](https://antorm1.github.io/lifeflow/))
 
-> Last updated: 2026-07-09 UTC
+> Last updated: 2026-07-10 UTC
