@@ -1,23 +1,29 @@
-# Hi, I’m Antorm
+# Hi, I'm Antorm 👋
 
-I build public-interest tools focused on community resilience and access.
+I build open-source, public-interest tools focused on community resilience, health, and access — practical, mobile-first apps for the Global South and beyond.
 
-## Projects
+## 🔥 Needed Now (2026)
+
+Built for the acute crises of right now:
+
+- [heat-alert](https://github.com/antorm1/heat-alert) — Extreme-heat early warning + cooling-center finder
+- [medstock](https://github.com/antorm1/medstock) — Essential-medicine stockout tracker & pharmacy finder
+- [air-watch](https://github.com/antorm1/air-watch) — Local air-quality + wildfire-smoke alerts
+
+## 📱 The full suite
+
+I maintain **100+ apps** across finance, health, safety, civic, agriculture, and education.
+Browse them all in the live catalog: **[Antorm Apps](https://github.com/antorm1/my-apps)**.
+
+## Selected projects
 
 - [portfolio-manager](https://github.com/antorm1/portfolio-manager)
-- [my-apps](https://github.com/antorm1/my-apps)
 - [open-pantry](https://github.com/antorm1/open-pantry)
 - [civic-shield](https://github.com/antorm1/civic-shield)
-- [moneypath](https://github.com/antorm1/moneypath)
-- [bizlaunch](https://github.com/antorm1/bizlaunch)
-- [energy-ranger](https://github.com/antorm1/energy-ranger)
 - [crisis-connect](https://github.com/antorm1/crisis-connect)
-- [care-loop](https://github.com/antorm1/care-loop)
-- [skill-bridge](https://github.com/antorm1/skill-bridge)
-- [water-watch](https://github.com/antorm1/water-watch)
-- [msaada](https://github.com/antorm1/msaada)
-- [mazao-passport](https://github.com/antorm1/mazao-passport)
-- [pawguide](https://github.com/antorm1/pawguide) — pet vet routes, walk/potty log & care reminders ([live](https://antorm1.github.io/pawguide/))
-- [lifeflow](https://github.com/antorm1/lifeflow) — calm personal event & reminder list ([live](https://antorm1.github.io/lifeflow/))
+- [msaada](https://github.com/antorm1/msaada) — crisis mental-health companion
+- [mazao-passport](https://github.com/antorm1/mazao-passport) — agroforestry & climate impact
+- [pawguide](https://github.com/antorm1/pawguide) — pet care ([live](https://antorm1.github.io/pawguide/))
+- [lifeflow](https://github.com/antorm1/lifeflow) — personal event list ([live](https://antorm1.github.io/lifeflow/))
 
-> Last updated: 2026-07-10 UTC
+> Last updated: 2026-07-16 UTC
